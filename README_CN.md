@@ -2,7 +2,7 @@
 
 基于python3的代理池项目
 
-英文版[README.md]()
+英文版[README.md](https://github.com/LMFrank/ProxyPool/blob/master/README.md)
 
 ## 安装依赖
 

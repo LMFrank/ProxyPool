@@ -1,7 +1,7 @@
 # ProxyPool
 Proxypool based on Python3
 
-[README_CN.md]() in Chinese
+[README_CN.md](https://github.com/LMFrank/ProxyPool/blob/master/README_CN.md) in Chinese
 
 ## Install requirements
 >conda install --yes --file requirements.txt
