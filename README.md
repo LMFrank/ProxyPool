@@ -57,6 +57,6 @@ def get_proxy():
 ### Summary
 
 1. Project skeleton is based on *Python3Webspider*
-2. This is my first time to write comments in English. Comments and suggestions are most welcome! 
+2. Comments and suggestions are most welcome! 
 
 
