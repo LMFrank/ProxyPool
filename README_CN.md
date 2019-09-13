@@ -26,13 +26,15 @@
 
 网页中输入http://127.0.0.1:5555，即可进入封装好的WebAPI中
 
-![1568343397598](C:\Users\62373\AppData\Roaming\Typora\typora-user-images\1568343397598.png)
+![](https://github.com/LMFrank/ProxyPool/blob/master/imgs/page.png)
 
-/random：提供一个随机代理![1568343539737](C:\Users\62373\AppData\Roaming\Typora\typora-user-images\1568343539737.png)
+/random：提供一个随机代理
+
+![](https://github.com/LMFrank/ProxyPool/blob/master/imgs/page1.png)
 
 /count：提供代理池中代理的总量
 
-![1568343599231](C:\Users\62373\AppData\Roaming\Typora\typora-user-images\1568343599231.png)
+![](https://github.com/LMFrank/ProxyPool/blob/master/imgs/page2.png)
 
 ### 获取代理
 

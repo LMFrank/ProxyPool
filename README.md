@@ -26,13 +26,15 @@ cd into the project folder and input the command below:
 
 Input http://127.0.0.1:5555 in the browser, then you can see the page by WebAPI encapsulation
 
-![1568343397598](C:\Users\62373\AppData\Roaming\Typora\typora-user-images\1568343397598.png)
+![](https://github.com/LMFrank/ProxyPool/blob/master/imgs/page.png)
 
-/random：provide a proxy randomly![1568343539737](C:\Users\62373\AppData\Roaming\Typora\typora-user-images\1568343539737.png)
+/random：provide a proxy randomly
+
+![](https://github.com/LMFrank/ProxyPool/blob/master/imgs/page1.png)
 
 /count：provide the total amount of proxypool
 
-![1568343599231](C:\Users\62373\AppData\Roaming\Typora\typora-user-images\1568343599231.png)
+![](https://github.com/LMFrank/ProxyPool/blob/master/imgs/page2.png)
 
 ### Get proxy
 
