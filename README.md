@@ -10,7 +10,7 @@ Proxypool based on Python3
 
 ### Redis service
 
-If you set up redis authentication, you need to set 'REDIS_PASSWORD' in settings.py to your password
+If you set up redis authentication, you need to set 'REDIS_PASSWORD' in settings.py
 
 ### Proxy providers
 
